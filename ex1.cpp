@@ -47,6 +47,7 @@ int main() {
     point.scale(2.0f);
     point.print();
 
-    return 0;
+
+    
 }
 
